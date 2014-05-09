@@ -8,10 +8,12 @@ Lead Developer: Aurea Martinez
 
 3.As a lawyer, I want to see how long my client has been detained so that I can argue their case.
 
-4.As an advocacy organization for immigrants, I want to get the data of immigrants in detention centers across the country so that we can prove the large number of deportations taking place. 
+4. I don't have a computer/internet at home so that I can search for my family member in detention centers. 
 
-5.As a volunteer for CIVIC, I want to know where they have transferred my visitee, so that I can keep in contact with them.  
+5.As an advocacy organization for immigrants, I want to get the data of immigrants in detention centers across the country so that we can prove the large number of deportations taking place. 
 
-6.An an undocumented person, I'm afraid to write a missing person report, so that I can find someone I know. 
+6.As a volunteer for CIVIC, I want to know where they have transferred my visitee, so that I can keep in contact with them.  
 
-7. I don't have a computer/internet at home so that I can search for my family member in detention centers. 
+7.An an undocumented person, I'm afraid to write a missing person report, so that I can find someone I know. 
+
+
