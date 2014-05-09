@@ -2,7 +2,7 @@ User stories for FindMe
 Lead Developer: Aurea Martinez
 
 
-1.As a wife, I want to find where my husband is being held after being picked up by ICE at work so that I can go visit and talk to him.
+1.As a wife, I want to find where my husband is being held after being picked up by ICE at work so that I can send him a lawyer.
 
 2.As a friend, I want to find where my gay/trans friend has been sent so that I know if they are in a trans/gay friendly facility.
 
@@ -12,6 +12,6 @@ Lead Developer: Aurea Martinez
 
 5.As a volunteer for CIVIC, I want to know where they have transferred my visitee, so that I can keep in contact with them.  
 
-6.As a husband, I want to locate my wife, so that I can provide her with a lawyer. 
+6.An an undocumented person, I'm afraid to write a missing person report, so that I can find someone I know. 
 
-7.An an undocumented person, I'm afraid to write a missing person report, so that I can find someone I know. 
+7. I don't have a computer/internet at home so that I can search for my family member in detention centers. 
